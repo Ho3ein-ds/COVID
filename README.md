@@ -1,5 +1,7 @@
 # COVID In South Africa
 
+Since the first report of COVID-19 in Wuhan, China, it has spread to at least 100 other countries. 
+
 Corona viruses are a family of viruses that are transmitted between people and animals. Symptomes include fever, cough, and mild respiratory illness. In severe cases the infection can result in pneumonia and death.
 
-I will use the Python Google Trends API, "pytrends", to analyze Google searches for "Coronavirus" at the province level in South Africa.
+Here different ways that artificial intelligence (AI), data science, and technology could be implemented to track and combat the pandemic are discussed.
