@@ -1,6 +1,6 @@
 # COVID-19: Data Analytics Perspective 
 ## Introduction
-In December 2019, a local outbreak of pneumonia of initially unknown cause was detected in three patients with pneumonia connected to the cluster of acute respiratory illness cases from Wuhan (Hubei, China), and quickly determined to be caused by a novel coronavirus (COVID-19). The outbreak has since spread to every province of mainland China as well as at least 120 countries and regions.
+In December 2019, a local outbreak of pneumonia of initially unknown cause was detected in three patients with pneumonia connected to the cluster of acute respiratory illness cases from Wuhan (Hubei, China), and quickly determined to be caused by a novel coronavirus (COVID-19). The outbreak has since spread to every province of mainland China as well as at least 120 countries and regions.COVID-19 is the greatest global crisis since World War II (https://www.bloomberg.com/opinion/articles/2020-03-24/coronavirus-recession-it-will-be-a-lot-like-world-war-ii) and the largest global pandemic since the 1918-1919 Spanish Flu (https://www.cdc.gov/flu/pandemic-resources/1918-pandemic-h1n1.html) is upon today
 
 Corona viruses are a family of viruses that are transmitted between people and animals. The disease causes respiratory illness (like the flu) with symptomes such as fever, cough, and in more severe cases, the infection can result in difficulty breathing. You can protect yourself by washing your hands frequently, avoiding toching your face, and avoiding close contact (1 meter or 3 feet) with people who are unwell. 
 
@@ -49,3 +49,4 @@ Other data sources that would be useful for analytical purposes are as follows:
 
 For all of statisticians / data scientists, who have been working with COVID-19 time series data, **STATWORKX** created an application program interface (API) for this purpose. The API uses official data from the European Centre for Disease Prevention and Control. This API delivers a concise and clear data structure for further in-depth statistical analysis. The API is built using Python 3 and deployed using **Google Cloud Run** (https://cloud.google.com/run?hl=en), a container-based serverless function framework in the cloud. For more information about this amazing API, please check the code in the **GitHub repository** (https://github.com/STATWORX/covid-19-api) and also the website (https://www.statworx.com/de/).
 
+## Data Analytics
