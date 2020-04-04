@@ -4,6 +4,9 @@ In December 2019, a local outbreak of pneumonia of initially unknown cause was d
 
 Corona viruses are a family of viruses that are transmitted between people and animals. The disease causes respiratory illness (like the flu) with symptomes such as fever, cough, and in more severe cases, the infection can result in difficulty breathing. You can protect yourself by washing your hands frequently, avoiding toching your face, and avoiding close contact (1 meter or 3 feet) with people who are unwell. 
 
+Newsrooms filter tons of information every day-articles, official briefings, expert interviews, etc. Moreover, social network platforms need to reduce the noise and promote verified stories to avoid nurturing misinformed and terrified users. 
+
+In this storm, we are fortunate to live in a world where the value of data well digested and there are numerous efforts underway in collecting and refining such sets. The question is: **How to use them to extract wisdom and value that will affect the way policies are made and alarms are triggered.**. In any case, it seems that we have an extra weapon in our arsenal fighting this virus. The main possible applications of data science spread from predicting the impact of various intervention policies, improving epidemiological forecasting models, to informetion spread on social media platforms and natural language processing. 
 ## Intersting stats & facts
 * The COVID-19 pandemic won't end once warmer weather arrrives. The spread may slow slightly simply because there tends to be less coughing and sneezing during the warm months, but it's so easily transmissible that it will continue to circulate if we don't get a handle on it now. That's why social distancing is so important.
 
@@ -47,6 +50,13 @@ Other data sources that would be useful for analytical purposes are as follows:
 * **Italy Ministry of Health**: http://www.salute.gov.it/nuovocoronavirus
 * **WorldoMeters**: https://www.worldometers.info/coronavirus/
 
+Also, I present some well-curated datasets that can prove very useful under a certain analytical light:
+
+1. This dataset was published on March 24th, 2020. All data are geo-coded and contain further input such as symptoms, key dates (date of onset, admission, and confirmation) and travel record where available. The dataset enables the production of real-time approaches that model disease outbreaks which is useful in supporting public health decision making and assist policymakers to enforce informed guidelines. The dataset is avaialbe at the the following GitHub repo (https://github.com/beoutbreakprepared/nCoV2019).
+
+2. The Allen Institute for AI (https://allenai.org/) prepare and distribute the COVID-19 open research dataset that brings together 44,000 scholarly scientific publications about COVID-19. The datasets has already an associated **Kaggle Challenge** (https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) where data scientists are called to develop text and data mining tools that can help the medical community develop strategies to high priority scientific questions. 
+
+3. The COVID-19 tweet IDs dataset collects millions of tweets associated with the virus outbreak. The first tweet in this dataset was recorded back to January 22, 2020. The Twitter's API is used to gather specific tweets with specific keywords in different languages. The languages that are currently avaialbe are as follows: English, Spanish, Indonesian, French, Thai, Portuguese, Japanese, Italian, and Turkish. The dataset is avaialble on the project's GitHub repo (https://github.com/echen102/COVID-19-TweetIDs)
 For all of statisticians / data scientists, who have been working with COVID-19 time series data, **STATWORKX** created an application program interface (API) for this purpose. The API uses official data from the European Centre for Disease Prevention and Control. This API delivers a concise and clear data structure for further in-depth statistical analysis. The API is built using Python 3 and deployed using **Google Cloud Run** (https://cloud.google.com/run?hl=en), a container-based serverless function framework in the cloud. For more information about this amazing API, please check the code in the **GitHub repository** (https://github.com/STATWORX/covid-19-api) and also the website (https://www.statworx.com/de/).
 
 ## Data Analytics
