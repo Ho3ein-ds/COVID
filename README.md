@@ -60,4 +60,3 @@ Also, I present some well-curated datasets that can prove very useful under a ce
 
 For all of statisticians / data scientists, who have been working with COVID-19 time series data, **STATWORKX** created an application program interface (API) for this purpose. The API uses official data from the European Centre for Disease Prevention and Control. This API delivers a concise and clear data structure for further in-depth statistical analysis. The API is built using Python 3 and deployed using **Google Cloud Run** (https://cloud.google.com/run?hl=en), a container-based serverless function framework in the cloud. For more information about this amazing API, please check the code in the **GitHub repository** (https://github.com/STATWORX/covid-19-api) and also the website (https://www.statworx.com/de/).
 
-## Data Analytics
